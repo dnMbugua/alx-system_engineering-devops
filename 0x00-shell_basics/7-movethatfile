@@ -1,0 +1,3 @@
+#!/bin/bash
+$ ./7-movethatfile $ ls /tmp/my_first_directory/ betty $$ ./7-movethatfile $ ls /tmp/my_first_directory/ betty $
+
