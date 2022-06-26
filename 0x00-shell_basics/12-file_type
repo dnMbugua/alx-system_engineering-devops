@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/iamafile Prints the type of file iamafile
+file /tmp/iamafile
